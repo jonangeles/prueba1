@@ -12,6 +12,7 @@
         <title>JSP Page</title>
     </head>
     <body>
+        <h1>hola</h1>
         <p>Request a secure Admin page <a href="secureAdmin/pageA.html">here!</a></p>
         <p>Request a secure User page <a href="secureUser/pageU.html" >here!</a></p>
         
